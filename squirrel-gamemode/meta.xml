@@ -1,18 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-	<name>squirrel-gamemode</name>
-    <creator>Dominik</creator>
-	<description>Basic Squirrel Gamemode</description>
-    <version>1.0.0</version>
-    <logo>https://happinessmp.net/img/banner.jpg</logo>
-    <tags>
-		<tag>Gamemode</tag>
-    </tags>
-    <meta type="lua">
-        <script type="client" src="cmds.lua" />
-        <script type="client" src="blips.lua" />
-        <script type="client" src="spawn.lua" />
-        <script type="client" src="client.lua" />
-        <script type="server" src="server.lua" />
-    </meta>
-</manifest>
+<name>squirrel-gamemode</name>
+<creator>HappinesMPreator>
+<description>Basic Squirrel Gamemode</description>
+<version>1.0.0</version>
+<logo>https://happinessmp.net/img/banner.jpg</logo>
+<tags>
+	<tag>Gamemode</tag>
+</tags>
+<meta type="lua">
+    <script type="client" src="cmds.lua" />
+    <script type="client" src="blips.lua" />
+    <script type="client" src="spawn.lua" />
+    <script type="client" src="client.lua" />
+    <script type="server" src="server.lua" />
+</meta>
+
