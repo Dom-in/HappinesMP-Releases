@@ -5,7 +5,7 @@ Welcome to the **HappinessMP Resources** repository! This is your go-to place fo
 ---
 
 ## 🎮 What is HappinessMP?
-HappinessMP is a **multiplayer modification** for *Grand Theft Auto IV* that breathes new life into Liberty City by allowing players to create, share, and enjoy custom multiplayer experiences. With our powerful scripting system, you can enhance gameplay, develop unique game modes, and push the limits of what is possible within the game.
+HappinessMP is a **multiplayer modification** for *Grand Theft Auto IV* that breathes new life into Liberty City by allowing players to create, share, and enjoy custom multiplayer experiences. With powerful scripting system, you can enhance gameplay, develop unique game modes, and push the limits of what is possible within the game.
 
 ---
 
