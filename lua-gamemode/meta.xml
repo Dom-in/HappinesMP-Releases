@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+	<name>lua-gamemode</name>
     <creator>HappinesMP</creator>
     <version>1.0.0</version>
     <logo>https://happinessmp.net/img/banner.jpg</logo>
