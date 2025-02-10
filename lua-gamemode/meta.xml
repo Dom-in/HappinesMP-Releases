@@ -1,0 +1,15 @@
+	<name>lua-gamemode</name>
+	<description>Basic Lua Gamemode</description>
+    <creator>HappinesMP</creator>
+    <version>1.0.0</version>
+    <logo>https://happinessmp.net/img/banner.jpg</logo>
+    <tags>
+		  <tag>Gamemode</tag>
+    </tags>
+    <meta type="lua">
+        <script type="client" src="cmds.lua" />
+        <script type="client" src="blips.lua" />
+        <script type="client" src="spawn.lua" />
+        <script type="client" src="client.lua" />
+        <script type="server" src="server.lua" />
+    </meta>
