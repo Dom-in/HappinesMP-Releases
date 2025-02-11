@@ -1,0 +1,14 @@
+<name>ivmenu</name>
+<description>Menu Base</description>
+<creator>LeChapellierFou</creator>
+<version>1.2.4</version>
+<logo>https://i.imgur.com/lru7DWo.png</logo>
+<tags>
+    <tag>Menu</tag>
+</tags>
+<meta type="lua">
+	<script type="client" src="const.lua" />	
+	<script type="client" src="menufunctions_cl.lua" />
+	<script type="client" src="menuclient.lua" />	
+	<script type="server" src="menuclient_sv.lua" />	
+</meta>
